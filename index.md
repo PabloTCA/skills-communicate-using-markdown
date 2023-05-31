@@ -11,3 +11,12 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+ ### My task list
+ - [x] Turn on GitHub Pages
+ - [ ] Outline my portfolio
+ - [x] introduce myself to the world
+ - [x] save hyrule
+ - [ ] save hyrule again
+ - [x] play games
+ - [ ] sleep
+ - [x] stream
